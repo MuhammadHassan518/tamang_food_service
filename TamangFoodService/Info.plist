@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>fa-brands-400.ttf</string>
+		<string>YuGothicRegular.ttf</string>
+		<string>YuGothic-Light.ttf</string>
+		<string>YuGothicUI-SemiBold.ttf</string>
+		<string>Poppins-Black.otf</string>
+		<string>Poppins-BlackItalic.otf</string>
+		<string>Poppins-Bold.otf</string>
+		<string>Poppins-ExtraLight.otf</string>
+		<string>Poppins-Italic.otf</string>
+		<string>Poppins-Light.otf</string>
+		<string>Poppins-Medium.otf</string>
+		<string>Poppins-Regular.otf</string>
+		<string>Poppins-SemiBold.otf</string>
+	</array>
+</dict>
+</plist>
