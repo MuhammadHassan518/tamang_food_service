@@ -7,4 +7,3 @@ Feel free to sugest and recommend me any udate or you fond error to fixit.
 
 # here is figma Design links : https://www.figma.com/community/file/992304109173819815/tamang-food-service-food-ordering-app-ui-kits?searchSessionId=lyyka93d-d4ht55yvo9q  
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/MuhammadHassan518/tamang_food_service/main/TamangFoodService/Preview%20Content/Preview%20Assets.xcassets/Screenshot%202024-09-10%20at%2010.32.38%20PM.imageset/Screenshot%202024-09-10%20at%2010.32.38%20PM.png)
