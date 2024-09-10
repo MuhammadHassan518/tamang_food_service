@@ -54,6 +54,7 @@
 		04B141612C74E6D60037873E /* ScanCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B141602C74E6D60037873E /* ScanCard.swift */; };
 		04B141632C74F0CD0037873E /* FindRestaurants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B141622C74F0CD0037873E /* FindRestaurants.swift */; };
 		04B141652C74FDA80037873E /* SingleResturent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B141642C74FDA80037873E /* SingleResturent.swift */; };
+		04B16B792C90A17E00B1E2AF /* PopUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B16B782C90A17E00B1E2AF /* PopUpView.swift */; };
 		04BD355C2C5BA15100F1B1E6 /* SignInScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BD355B2C5BA15100F1B1E6 /* SignInScreen.swift */; };
 		04BD355E2C5BC1C900F1B1E6 /* BigYellowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BD355D2C5BC1C900F1B1E6 /* BigYellowButton.swift */; };
 		04BD35602C5BCF3300F1B1E6 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BD355F2C5BCF3300F1B1E6 /* SignUp.swift */; };
@@ -131,6 +132,7 @@
 		04B141602C74E6D60037873E /* ScanCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanCard.swift; sourceTree = "<group>"; };
 		04B141622C74F0CD0037873E /* FindRestaurants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindRestaurants.swift; sourceTree = "<group>"; };
 		04B141642C74FDA80037873E /* SingleResturent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleResturent.swift; sourceTree = "<group>"; };
+		04B16B782C90A17E00B1E2AF /* PopUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpView.swift; sourceTree = "<group>"; };
 		04BD355B2C5BA15100F1B1E6 /* SignInScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInScreen.swift; sourceTree = "<group>"; };
 		04BD355D2C5BC1C900F1B1E6 /* BigYellowButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigYellowButton.swift; sourceTree = "<group>"; };
 		04BD355F2C5BCF3300F1B1E6 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
@@ -225,6 +227,7 @@
 			children = (
 				04314E512C5A472B002F601A /* WelcomeMainScreen.swift */,
 				04314E712C5A9E4A002F601A /* WalkThroughScreen.swift */,
+				04B16B782C90A17E00B1E2AF /* PopUpView.swift */,
 			);
 			path = Welcome;
 			sourceTree = "<group>";
@@ -500,6 +503,7 @@
 				04A40EB72C62579000440D6F /* FetureRestLisView.swift in Sources */,
 				04B141592C74B4410037873E /* AddSocialAccount.swift in Sources */,
 				04BD355E2C5BC1C900F1B1E6 /* BigYellowButton.swift in Sources */,
+				04B16B792C90A17E00B1E2AF /* PopUpView.swift in Sources */,
 				048C17472C60FC850090A4B1 /* SearchRestaurants.swift in Sources */,
 				04BD35602C5BCF3300F1B1E6 /* SignUp.swift in Sources */,
 				04BD35642C5BE2AE00F1B1E6 /* ResetEmail.swift in Sources */,
