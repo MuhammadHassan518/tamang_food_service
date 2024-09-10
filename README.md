@@ -6,4 +6,3 @@ tamang_food_service where you can order multiple foods and see multiple resturen
 Feel free to sugest and recommend me any udate or you fond error to fixit.
 
 # here is figma Design links : https://www.figma.com/community/file/992304109173819815/tamang-food-service-food-ordering-app-ui-kits?searchSessionId=lyyka93d-d4ht55yvo9q  
-## Screenshot
